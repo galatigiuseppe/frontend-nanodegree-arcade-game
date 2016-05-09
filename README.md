@@ -1,6 +1,15 @@
-frontend-nanodegree-arcade-game
-===============================
+Welcome to Arcade Game - Frogger
+================================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+Here are the rules:
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+- Select a player
+- When you are ready "Start new game"
+- You have 30 seconds to collect as many items as possible
+- Collect a heart, star or key will give you 10 points each
+- Collect a gem (blue, green or orange) will give you 30 points each (but be aware: they disappear after a while)
+- Collect a meteor will give you 50 points (but be aware: once it starts sliding down its gone)
+- Be careful with the bugs! Avoid colliding with them or you loose all you points!!
+- If you make to the water line you will get 20 points and can continue collecting more items.. YEAH!!
+
+
