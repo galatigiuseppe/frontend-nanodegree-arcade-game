@@ -12,4 +12,4 @@ Here are the rules:
 - Be careful with the bugs! Avoid colliding with them or you loose all you points!!
 - If you make to the water line you will get 20 points and can continue collecting more items.. YEAH!!
 
-
+## [Play the game](http://galatigiuseppe.github.io/frontend-nanodegree-arcade-game)
