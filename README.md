@@ -13,3 +13,4 @@ Here are the rules:
 - If you make to the water line you will get 20 points and can continue collecting more items.. YEAH!!
 
 
+## [Start playing](http://galatigiuseppe.github.io/frontend-nanodegree-arcade-game)
